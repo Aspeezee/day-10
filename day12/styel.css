@@ -1,0 +1,87 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: azure;
+  font-size: 25px;
+  padding: 0 30px;
+  height: 60px;
+}
+
+.facebook {
+  text-decoration: none;
+  display: flex;
+}
+
+.button {
+  color: black;
+  height: fit-content;
+  background-color: aqua;
+  display: flex;
+  height: 30px;
+  font-size: large;
+}
+
+/* admission */
+.admission img {
+  height: 90px;
+  width: 250px;
+}
+
+.admission {
+  display: flex;
+  justify-content: space-between;
+  background: #f8f9fa;
+  align-items: center;
+}
+
+.i {
+  width: 800px;
+  font-size: large;
+}
+
+.btnadmission {
+  display: flex;
+  gap: 490px;
+}
+
+/* hero section */
+
+.mainsection {
+  background-color: #e9ecf3;
+  display: flex;
+  gap: 300px;
+}
+
+.heroimage img {
+  height: 400px;
+  width: 500px;
+  justify-self: flex-end;
+}
+
+.heroimage {
+  display: inline-flex;
+}
+
+.article {
+  font-size: 25px;
+}
+/* hero section */
+
+
+
+
+
+/* aside section */
+
+.aside{
+    background-color: #ffffff;
+}
+
+
+.our{
+    text-align: center;
+}
+
+   
+
+/* aside section */
