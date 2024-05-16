@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contaner{
+    padding: 0 50px;
+}
+
+
+.section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+  
+
+.text-center{
+    align-items: center;
+}
+  
+  
+.text-{
+  text-align: center;   
+}
+
+
+.img{
+    height: 650px;
+}
+
+.signatare{
+    position: absolute;
+    top: 530px;
+    left: 477px;
+}
+
+.date{
+    position: absolute;
+    top: 530px;
+    left: 477px;
+    text-align: center;
+}
+
+.signatare i{
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    left: 350px;
+    bottom: -5 5px;
+}
+
+
+.name{
+    height: 650px;
+    width: 550px;
+    position: absolute;
+    left: 400px;
+    color: blueviolet;
+    bottom: -2px;
+    font-size: 80px;
+}

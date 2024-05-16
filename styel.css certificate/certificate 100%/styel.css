@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contaner{
+    padding: 0 50px;
+}
+
+
+.section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+  
+
+.text-center{
+    text-align: center;
+  }
+  
+  
